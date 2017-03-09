@@ -12,7 +12,7 @@ Intelligent Management Dashboard
  <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1neFR8NMYPtmMIg1pFXvO00eCA_93H4vuRguGZPoJGTQ/pubchart?oid=1304888184&amp;format=interactive"></iframe>
  
  
- 
+ https://public.tableau.com/profile/publish/GrficacomparativaIngestadeazucaresygrasasporgeografsseleccionada/Hoja2#!/publish-confirm
  
  
  
