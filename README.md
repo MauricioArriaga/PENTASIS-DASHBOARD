@@ -14,10 +14,5 @@ Intelligent Management Dashboard
 
  https://public.tableau.com/views/GrficacomparativaIngestadeazucaresygrasasporgeografsseleccionada/Hoja2?:embed=y&:display_count=yes
  
- 
- https://drive.google.com/open?id=1iZgJkGy0yjKc-EqJtOSl1XOHpg0&usp=sharing
- 
- 
- 
- 
+https://public.tableau.com/profile/ mauricio1395
 
