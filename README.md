@@ -10,3 +10,8 @@ Intelligent Management Dashboard
   <iframe width="1280" height="800" seamless frameborder="0" scrolling="yes" src="https://public.tableau.com/views/MRAGSection2StoryaboutstudentsatDataVisualizationforall/Historia1?:embed=y&:display_count=yes"></iframe>
 
  
+Now, in case you would like to take a deep down to the google maps!
+HERE you have:
+
+
+<iframe width="1280" height="800" seamless frameborder="0" scrolling="yes" src="https://drive.google.com/open?id=1iZgJkGy0yjKc-EqJtOSl1XOHpg0&usp=sharing"></iframe>
