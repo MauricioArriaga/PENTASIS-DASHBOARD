@@ -13,5 +13,4 @@ Intelligent Management Dashboard
 Now, in case you would like to take a deep down to the google maps!
 HERE you have:
 
-
-<iframe width="1280" height="800" seamless frameborder="0" scrolling="yes" src="https://drive.google.com/open?id=1iZgJkGy0yjKc-EqJtOSl1XOHpg0&usp=sharing"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1iZgJkGy0yjKc-EqJtOSl1XOHpg0" width="640" height="480"></iframe>
