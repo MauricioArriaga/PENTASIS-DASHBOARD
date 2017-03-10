@@ -4,7 +4,7 @@ Intelligent Management Dashboard
  
  Hello & welcome to my first embeded Story and web page!
  
-  <iframe width="800" height="400" seamless frameborder="0" scrolling="no" src="https://public.tableau.com/views/MRAGSection2StoryaboutstudentsatDataVisualizationforall/Historia1?:embed=y&:display_count=yes"></iframe>
+  <iframe width="1300" height="700" seamless frameborder="0" scrolling="no" src="https://public.tableau.com/views/MRAGSection2StoryaboutstudentsatDataVisualizationforall/Historia1?:embed=y&:display_count=yes"></iframe>
 
  
  
